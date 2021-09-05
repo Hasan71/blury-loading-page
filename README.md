@@ -1,1 +1,1 @@
-# blury-page-loading
+# blury-loading-page
